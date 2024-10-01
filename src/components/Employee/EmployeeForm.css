@@ -1,0 +1,15 @@
+.employee-form-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .employee-form h2 {
+    margin-bottom: 15px;
+  }
+  
+  .employee-form .form-control {
+    margin-bottom: 10px;
+  }
+  

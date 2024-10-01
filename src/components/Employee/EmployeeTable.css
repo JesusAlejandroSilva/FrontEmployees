@@ -1,0 +1,16 @@
+.employee-table-container {
+    margin-top: 20px;
+  }
+  
+  .employee-table-container h2 {
+    margin-bottom: 15px;
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  .table .btn {
+    margin-right: 5px;
+  }
+  
